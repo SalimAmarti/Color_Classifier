@@ -1,3 +1,5 @@
+![Header](https://github.com/SalimAmarti/Color_Classifier/blob/master/Project%20%235.gif)
+
 Motivations
 -------
 
