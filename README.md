@@ -26,7 +26,14 @@ Click [here](https://github.com/SalimAmarti/Color_Classifier/blob/master/Color%2
 Executive Summary
 -------
 
-*Work in progress...*
+In the code, donut charts are created to show an overview of the twenty most used colors of an Instagram page. The donut charts also show how frequent a specific color was the most used color of a picture.
+
+Have a look at two examples below:
+
+<img src="cocacola_plot.png" width="30%"> <img src="pepsi_plot.png" width="30%">
+
+*[Coca Cola](https://www.instagram.com/cocacola/) vs. [Pepsi](https://www.instagram.com/pepsi/)*
+
 
 Approach
 -------
