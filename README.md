@@ -62,6 +62,7 @@ Approach
 Next steps / Improvements
 -------
 
+- Perform elbow method to automatically determine the ideal number of clusters for each picture
 - Working on extracting the top colors of a video. This would be a project on its own, but now Instagram users often share videos on their pages. Excluding them means removing a high share of the content.
 
 
