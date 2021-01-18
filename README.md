@@ -68,4 +68,4 @@ Next steps / Improvements
 Infographics
 -------
 
-*Work in progress...*
+![Infographics](https://github.com/SalimAmarti/Color_Classifier/blob/master/Color_clustering_infographics.png)
